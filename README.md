@@ -1,40 +1,44 @@
-<br clear="both">
+### Hi there, I'm Ali 👋
 
-<h1 align="center">Hi 👋! My name is Ali & I'm a mobile Developer</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</p>
 
-###
+<p align="center">
+  <b>🔥 Flutter Developer | Linux Enthusiast | Always Learning</b>
+</p>
 
-<br clear="both">
+---
 
-<img align="right" height="150" src="https://media1.tenor.com/m/izDwvnlwk2AAAAAd/android-i-phone.gif"  />
+### 🚀 About Me
+- 🔭 Currently working on **Break-Fast-Menu-App**
+- 🌱 Learning **Flutter, Firebase, and Clean Architecture**
+- 💬 Ask me anything! I'm happy to help
+- 📫 Reach me at: [Your Email or Social Links]
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
-</div>
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,linux,git,github,figma" />
+</p>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/4itsam/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="wwwalimiri60@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/4newt/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4itsam&show_icons=true&theme=tokyonight" />
+</p>
 
-###
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github.com/4itsam/4itsam/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  🚀 Thanks for visiting my profile!
+</p>
